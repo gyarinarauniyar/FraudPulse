@@ -1,6 +1,0 @@
-pyproject.toml
-src/fraudpulse.egg-info/PKG-INFO
-src/fraudpulse.egg-info/SOURCES.txt
-src/fraudpulse.egg-info/dependency_links.txt
-src/fraudpulse.egg-info/requires.txt
-src/fraudpulse.egg-info/top_level.txt
